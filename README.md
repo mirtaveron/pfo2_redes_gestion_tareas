@@ -346,7 +346,7 @@ CREATE TABLE tareas (
 
 ![ver tareas](https://github.com/mirtaveron/pfo2_redes_gestion_tareas/blob/main/imagenes/tareas.png)
 
-### 1. Pruebas automatizadas
+### Pruebas automatizadas
 
 ![registro](https://github.com/mirtaveron/pfo2_redes_gestion_tareas/blob/main/imagenes/1.png)
 
