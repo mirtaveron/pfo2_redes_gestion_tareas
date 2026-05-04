@@ -22,7 +22,7 @@ task_manager_api/
 └── README.md           # Esta documentación
 ```
 
-## 🚀 Instalación
+## 🔧 Instalación
 
 ### Prerrequisitos
 
@@ -217,7 +217,7 @@ Authorization: tu_token_aqui
 }
 ```
 
-## 🧪 Pruebas con cURL
+## ⌨️ Pruebas con cURL
 
 ### Ejemplo completo de flujo
 
@@ -382,7 +382,8 @@ Las contraseñas **nunca** deben almacenarse en texto plano porque:
 
 4. **Prevención de ataques en cadena:** Los usuarios a menudo reutilizan contraseñas. Protegerlas evita que un atacante acceda a otras cuentas del usuario.
 
-5. **Cumplimiento de regulaciones:** Leyes como GDPR y estándares como PCI-DSS requieren protección de datos sensibles.
+5. **Cumplimiento de regulaciones:** La protección de datos sensibles es fundamental para cumplir con normativas y buenas prácticas de seguridad de la información.<img width="783" height="296" alt="image" src="https://github.com/user-attachments/assets/64ce1f84-9ccc-4819-a206-d0c81e5deb6d" />
+
 
 **Salt adicional:**
 - Previene ataques de rainbow tables (tablas precalculadas de hashes)
