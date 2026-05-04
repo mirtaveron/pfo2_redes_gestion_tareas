@@ -18,8 +18,8 @@ task_manager_api/
 ├── servidor.py          # API Flask con todos los endpoints
 ├── cliente.py           # Cliente de consola interactivo
 ├── requirements.txt     # Dependencias del proyecto
-├── tasks.db            # Base de datos SQLite (se crea automáticamente)
-└── README.md           # Esta documentación
+├── tasks.db             # Base de datos SQLite (se crea automáticamente)
+└── README.md            # Esta documentación
 ```
 
 ## 🔧 Instalación
