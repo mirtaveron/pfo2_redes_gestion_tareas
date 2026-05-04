@@ -332,7 +332,7 @@ CREATE TABLE tareas (
 
 ### 1. Servidor en Ejecución
 
-![servidor en ejecución](https://github.com/mirtaveron/pfo2_redes_gestion_tareas/blob/main/imagenes/image.png)
+![servidor en ejecución](https://github.com/mirtaveron/pfo2_redes_gestion_tareas/blob/main/imagenes/servidor.png)
 
 ### 2. Cliente - Registro de Usuario
 
