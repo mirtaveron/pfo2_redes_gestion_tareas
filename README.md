@@ -22,6 +22,20 @@ task_manager_api/
 └── README.md            # Esta documentación
 ```
 
+## 🌐 Interfaz Web
+
+La API incluye una interfaz web informativa con la documentación de los endpoints.
+
+Para acceder:
+
+1. Ejecutar el servidor:
+   ```bash
+   python servidor.py
+
+2. Abrir en el navegador:
+http://localhost:5000
+  
+  
 ## 🔧 Instalación
 
 ### Prerrequisitos
