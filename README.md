@@ -332,15 +332,31 @@ CREATE TABLE tareas (
 
 ### 1. Servidor en Ejecución
 
-
+![servidor en ejecución](https://github.com/mirtaveron/pfo2_redes_gestion_tareas/blob/main/imagenes/image.png)
 
 ### 2. Cliente - Registro de Usuario
 
+![registro de usuario](https://github.com/mirtaveron/pfo2_redes_gestion_tareas/blob/main/imagenes/registro.png)
 
 ### 3. Cliente - Inicio de Sesión
 
+![inicio de sesión](https://github.com/mirtaveron/pfo2_redes_gestion_tareas/blob/main/imagenes/inicio.png)
 
 ### 4. Cliente - Ver Tareas
+
+![ver tareas](https://github.com/mirtaveron/pfo2_redes_gestion_tareas/blob/main/imagenes/tareas.png)
+
+### 1. Pruebas automatizadas
+
+![registro](https://github.com/mirtaveron/pfo2_redes_gestion_tareas/blob/main/imagenes/1.png)
+
+![inicio](https://github.com/mirtaveron/pfo2_redes_gestion_tareas/blob/main/imagenes/2.png)
+
+![tarea](https://github.com/mirtaveron/pfo2_redes_gestion_tareas/blob/main/imagenes/3.png)
+
+![resumen](https://github.com/mirtaveron/pfo2_redes_gestion_tareas/blob/main/imagenes/4.png)
+
+![error de servidor](https://github.com/mirtaveron/pfo2_redes_gestion_tareas/blob/main/imagenes/5.png)
 
 
 ## 🛠️ Tecnologías Utilizadas
@@ -382,8 +398,7 @@ Las contraseñas **nunca** deben almacenarse en texto plano porque:
 
 4. **Prevención de ataques en cadena:** Los usuarios a menudo reutilizan contraseñas. Protegerlas evita que un atacante acceda a otras cuentas del usuario.
 
-5. **Cumplimiento de regulaciones:** La protección de datos sensibles es fundamental para cumplir con normativas y buenas prácticas de seguridad de la información.<img width="783" height="296" alt="image" src="https://github.com/user-attachments/assets/64ce1f84-9ccc-4819-a206-d0c81e5deb6d" />
-
+5. **Cumplimiento de regulaciones:** La protección de datos sensibles es fundamental para cumplir con normativas y buenas prácticas de seguridad de la información.
 
 **Salt adicional:**
 - Previene ataques de rainbow tables (tablas precalculadas de hashes)
