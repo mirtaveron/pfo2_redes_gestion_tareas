@@ -445,7 +445,8 @@ Las contraseñas **nunca** deben almacenarse en texto plano porque:
 - [ ] Sistema de recordatorios
 - [ ] Frontend web completo con React/Vue
 - [ ] Despliegue en la nube (Heroku, Railway, etc.)
-- [ ] Tests unitarios y de integración
+- [ ] Incorporar tests unitarios
+- [ ] Mejorar y estructurar tests de integración (por ejemplo con pytest)
 - [ ] Documentación con Swagger/OpenAPI
 
 ## 📄 Licencia
